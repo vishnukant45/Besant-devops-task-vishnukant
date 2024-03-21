@@ -1,21 +1,22 @@
+Installed Packages Name's
 
 
-git
+1.git
 
 https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe
 
-putty ---- for connecting servers
+2.putty ---- for connecting servers
 
 https://putty.en.softonic.com/
 
-Notepad++++
+3.Notepad++++
 
 https://notepad.plus/download/
 
-VS code
+4.VS code
 
 https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
 
-mobaxterm
+5.mobaxterm
 
 https://mobaxterm.mobatek.net/download.htmli
